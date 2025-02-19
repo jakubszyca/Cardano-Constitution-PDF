@@ -1,8 +1,8 @@
-## Hey Cardano!
+## Hey Cardano Community!
 
-### I decided to make the Proposed Cardano Constitution more "readable" and turned it into a better formatted PDF.
-It has bookmarks, different text styles, and other improvements for a better UX. I hope it will help someone seeking an easier way to read the text before making a decision.
+### I’ve taken the Cardano Blockchain Ecosystem Constitution and made it more readable and user-friendly by formatting it into a polished PDF.
+The document now includes bookmarks, improved text styling, and enhanced formatting to create a better and more visually appealing reading experience. I hope this helps anyone who wants a smoother and easier way to navigate and understand the constitution. This document will be regularly updated to align with the latest on-chain constitution.
 
-You can download it [here](https://github.com/jakubszyca/Cardano-Constitution-PDF/blob/3f7f714a1a6960d35a1dac258c4c24b685eec769/Proposed%20Cardano%20Constitution.pdf)
-
-I know this document has a few formatting errors and in general can be done a lot better. I already have ideas how to improve it but I just wanted to get it out quickly since the on-chain vote is active.
+#### You can download the PDF [here](https://github.com/jakubszyca/Cardano-Constitution-PDF/blob/main/Cardano%20Constitution.pdf)
+***
+*The current version reflects the constitution ratified in **Epoch 540.***
